@@ -1,0 +1,23 @@
+# Core ML / Transformers
+transformers
+datasets
+peft
+accelerate
+evaluate
+nltk
+
+# Data
+pandas
+pyarrow
+
+# SQL
+sqlparse
+
+# Experiment tracking
+wandb
+
+# UI
+gradio
+
+# Note: bitsandbytes is excluded — limited Mac support.
+# If running on Linux/Kaggle/Colab, add: bitsandbytes
